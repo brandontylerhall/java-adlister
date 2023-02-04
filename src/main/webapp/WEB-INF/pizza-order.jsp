@@ -36,6 +36,7 @@
                 <option value="large">Large</option>
             </select>
             <br><br>
+            <%--why?--%>
             <label for="toppings">Toppings:</label><br>
             <input type="checkbox" id="pepperoni" name="toppings" value="pepperoni">
             <label for="pepperoni">Pepperoni</label><br>
